@@ -1,0 +1,62 @@
+tr > td,
+tr > th {
+  padding: 10px;
+  text-align: center;
+  border: 1px solid;
+}
+.btnn {
+  padding: 10px;
+  margin: 20px;
+  float: right;
+  border-radius: 10px;
+  font-size: 30px;
+  font-weight: bolder;
+  background-color: cadetblue;
+}
+#firstName {
+  height: 20px;
+  padding: 5px;
+  font-size: 20px;
+  border-radius: 2px;
+}
+#lastName {
+  height: 20px;
+  padding: 5px;
+  font-size: 20px;
+  border-radius: 2px;
+}
+#email {
+  height: 20px;
+  padding: 5px;
+  font-size: 20px;
+  border-radius: 2px;
+}
+#phone {
+  height: 20px;
+  padding: 5px;
+  font-size: 20px;
+  border-radius: 2px;
+}
+label {
+  font-size: 30px;
+  font-weight: bolder;
+}
+.bt {
+  padding: 10px;
+  margin: 20px;
+  width: 80px;
+  font-size: 20px;
+  border-radius: 10px;
+  background-color: cadetblue;
+}
+.h1 {
+  color: red;
+}
+.it {
+  padding: 10px;
+  margin: 20px;
+  width: 80px;
+  font-size: 20px;
+  border-radius: 10px;
+  background-color: rosybrown;
+}
